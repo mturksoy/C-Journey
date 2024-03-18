@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Dev\UdemyC++\Vectors\main.cpp(12,27): error C3867: 'std::vector<int,std::allocator<int>>::size': non-standard syntax; use '&' to create a pointer to member
+C:\Dev\UdemyC++\Vectors\main.cpp(12,20): error C2446: '<=': no conversion from 'unsigned __int64 (__cdecl std::vector<int,std::allocator<int>>::* )(void) noexcept const' to 'int'
+  C:\Dev\UdemyC++\Vectors\main.cpp(12,27):
+  There is no context in which this conversion is possible
+  
