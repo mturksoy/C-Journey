@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Dev\CppSeries\StaticInClass\Main.cpp(19,9): warning C4101: 'e': unreferenced local variable
+C:\Dev\CppSeries\StaticInClass\Main.cpp(23,9): warning C4101: 'e1': unreferenced local variable
+  StaticInClass.vcxproj -> C:\Dev\CppSeries\StaticInClass\x64\Debug\StaticInClass.exe

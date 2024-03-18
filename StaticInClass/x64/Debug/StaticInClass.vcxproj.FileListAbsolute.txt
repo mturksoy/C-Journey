@@ -1,0 +1,1 @@
+C:\Dev\CppSeries\StaticInClass\x64\Debug\StaticInClass.exe
