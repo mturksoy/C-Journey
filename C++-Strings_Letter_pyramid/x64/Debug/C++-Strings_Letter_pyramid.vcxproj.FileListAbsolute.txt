@@ -1,0 +1,1 @@
+C:\Dev\UdemyC++\C++-Strings_Letter_pyramid\x64\Debug\C++-Strings_Letter_pyramid.exe

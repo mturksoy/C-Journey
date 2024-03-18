@@ -1,0 +1,1 @@
+C:\Dev\UdemyC++\C_Strings\x64\Debug\C_Strings.exe
