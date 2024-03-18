@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Dev\UdemyC++\PointerAndReferences\main.cpp(47,6): error C2440: '=': cannot convert from 'double *' to 'int *'
+  C:\Dev\UdemyC++\PointerAndReferences\main.cpp(47,6):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  
